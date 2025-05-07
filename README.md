@@ -40,4 +40,4 @@ This lab demonstrates the design and simulation of fundamental sequential circui
 
 ---
 
-> 💡 **Tip:** Ensure your clock inputs are correctly configured to observe accurate behavior in each simulation.
+> **Tip:** Ensure your clock inputs are correctly configured to observe accurate behavior in each simulation.
