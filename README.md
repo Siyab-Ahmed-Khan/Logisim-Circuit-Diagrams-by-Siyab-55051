@@ -26,7 +26,7 @@ This lab demonstrates the design and simulation of fundamental sequential circui
 
 ---
 
-## 🛠️ How to Use  
+## How to Use  
 1. Open any `.circ` file using **Logisim**.  
 2. Use the clock input to simulate the circuit.  
 3. Observe output changes based on inputs and clock pulses.
